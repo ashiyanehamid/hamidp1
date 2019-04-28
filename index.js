@@ -7,4 +7,6 @@ test2(3);
 
 
 
-
+function test3(){
+    console.log("hello")
+}
