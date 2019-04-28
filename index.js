@@ -21,6 +21,6 @@ function test6(){
     console.log("hello")
 }
 
-function test7(){
+function test777777(){
     console.log("hello")
 }
