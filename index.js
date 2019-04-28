@@ -17,3 +17,6 @@ function test4(){
 function test5(){
     console.log("hello")
 }
+function test6(){
+    console.log("hello")
+}
