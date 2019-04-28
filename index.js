@@ -20,3 +20,7 @@ function test5(){
 function test6(){
     console.log("hello")
 }
+
+function test7(){
+    console.log("hello")
+}
