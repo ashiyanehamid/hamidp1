@@ -10,3 +10,6 @@ test2(3);
 function test3(){
     console.log("hello")
 }
+function test4(){
+    console.log("hello")
+}
