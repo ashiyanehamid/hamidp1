@@ -13,3 +13,7 @@ function test3(){
 function test4(){
     console.log("hello")
 }
+
+function test5(){
+    console.log("hello")
+}
